@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 </div>
 
 <br />
+- 📫 How to reach me: jihyojeon7@gmail.com / twitter@yoyojeon1
