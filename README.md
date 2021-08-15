@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <br />
 
 - 📫 How to reach me: jihyojeon7@gmail.com / twitter@yoyojeon1 <br/>
-- ⚡ Fun fact: My name is Jihyo but sone English speakers think it is Geo.
+- ⚡ Fun fact: I am Blink💗
