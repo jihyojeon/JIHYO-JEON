@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 
 <br />
 
+- 😄 Pronouns: she/her
 - 📫 How to reach me: jihyojeon7@gmail.com / twitter[@yoyojeon1](https://twitter.com/YoyoJeon1) <br/>
 - ⚡ Fun fact: I am Blink💗 I speak Korean🇰🇷, English🇺🇸 and Mandarin🇨🇳🤪
