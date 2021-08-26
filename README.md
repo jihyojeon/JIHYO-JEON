@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br />
 
-- 🔭 I recently joined team [Womtip](https://twitter.com/womtip1?s=21) which is upcoming girls only community.
+- 🔭 I recently joined team [Womtip](https://twitter.com/womtip1?s=21) which is upcoming womyn-only community.
 - 😄 Pronouns: she/her
 - 📫 How to reach me: jihyojeon7@gmail.com / twitter [@yoyojeon1](https://twitter.com/YoyoJeon1) <br/>
 - ⚡ Fun fact: I am Blink💗 I speak Korean🇰🇷, English🇺🇸 and Mandarin🇨🇳🤪
