@@ -1,7 +1,7 @@
 
 ## Jihyo Jeon 💗
 
-A collaborative Machine Learning Researcher who received her Master's degree in Computer Science from Gwangju Institute of Science and Technology in 2020. Strong background in computer science and hands-on experiences in Machine Learning algorithms. Developed state-of-art deep learning methods for computer vision tasks for an autonomous car.
+<!-- A collaborative Machine Learning Researcher who received her Master's degree in Computer Science from Gwangju Institute of Science and Technology in 2020. Strong background in computer science and hands-on experiences in Machine Learning algorithms. Developed state-of-art deep learning methods for computer vision tasks for an autonomous car. -->
 
 <!--
 **JIHYO-JEON/JIHYO-JEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
