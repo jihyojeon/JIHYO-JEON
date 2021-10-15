@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)&nbsp; -->
 
 ## 🤝🏻 &nbsp;Contact
-<a href="mailto:jihyojeon7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FYoyoJeon1">
+<a href="mailto:jihyojeon7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/YoyoJeon1">
