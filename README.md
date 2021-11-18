@@ -6,8 +6,8 @@
 
 <!-- - 🔭 I recently joined developer team of [Womtip](https://twitter.com/womtip1?s=21) which is upcoming womyn-only community. -->
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am Blink💗 I speak Korean🇰🇷, English🇺🇸 and Mandarin🇨🇳🤪
-- 🌱 I’m currently learning React!
+- 🌱 I’m currently learning NextJS!
+- ⚡ Fun fact: Korea in a country select box could be "South Korea" or "Korea, South" or "Republic of Korea" or "Korea, Republic of" or "Korea" 🤷🏻‍♀️
 
 <!--
 **JIHYO-JEON/JIHYO-JEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
