@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <div align=center>
  
 [![Jihyo's github stats](https://github-readme-stats.vercel.app/api?username=JIHYO-JEON&hide=["contribs","stars"]&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIHYO-JEON&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
