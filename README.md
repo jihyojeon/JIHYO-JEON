@@ -1,7 +1,7 @@
 
 # Jihyo Jeon 💗
 
-<!-- A collaborative Machine Learning Researcher who received her Master's degree in Computer Science from Gwangju Institute of Science and Technology in 2020. Strong background in computer science and hands-on experiences in Machine Learning algorithms. Developed state-of-art deep learning methods for computer vision tasks for an autonomous car. -->
+A collaborative full stack developer, experienced with JavaScript technologies. Expert in Node, Express, MongoDB, SQL, WebSockets, React and NextJS. Possess extensive knowledge of computer science and machine learning algorithms.
 
 
 <!-- - 🔭 I recently joined developer team of [Womtip](https://twitter.com/womtip1?s=21) which is upcoming womyn-only community. -->
