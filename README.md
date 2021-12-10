@@ -6,8 +6,8 @@ A collaborative full stack developer, experienced with JavaScript technologies. 
 
 <!-- - 🔭 I recently joined developer team of [Womtip](https://twitter.com/womtip1?s=21) which is upcoming womyn-only community. -->
 - 😄 Pronouns: she/her
-- - 🔭 I’m currently working on [GenieUs](https://www.genieus.help/)
-- 🌱 I’m currently learning NextJS!
+- 🔭 I’m currently working on [GenieUs](https://www.genieus.help/)
+- 🌱 I’m currently learning TypeScript!
 - ⚡ Fun fact: Korea in a country select box could be "South Korea" or "Korea, South" or "Republic of Korea" or "Korea, Republic of" or "Korea" 🤷🏻‍♀️
 
 <!--
