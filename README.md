@@ -6,6 +6,7 @@ A collaborative full stack developer, experienced with JavaScript technologies. 
 
 <!-- - 🔭 I recently joined developer team of [Womtip](https://twitter.com/womtip1?s=21) which is upcoming womyn-only community. -->
 - 😄 Pronouns: she/her
+- - 🔭 I’m currently working on [GenieUs](https://www.genieus.help/)
 - 🌱 I’m currently learning NextJS!
 - ⚡ Fun fact: Korea in a country select box could be "South Korea" or "Korea, South" or "Republic of Korea" or "Korea, Republic of" or "Korea" 🤷🏻‍♀️
 
@@ -14,7 +15,6 @@ A collaborative full stack developer, experienced with JavaScript technologies. 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
