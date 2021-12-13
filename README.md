@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ## 🤝🏻 &nbsp;Contact
 <a href="https://www.linkedin.com/in/jihyo-jeon/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/></a>
 <a href="mailto:jihyojeon7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/YoyoJeon1"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/YoyoJeon1"></a>
+<!-- <a href="https://twitter.com/YoyoJeon1"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/YoyoJeon1"></a> -->
