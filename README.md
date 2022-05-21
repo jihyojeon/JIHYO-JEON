@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/JIHYO-JEON/github-stats-transparent">
  <img src="https://raw.githubusercontent.com/JIHYO-JEON/github-stats-transparent/output/generated/languages.svg" width=49.2% />
 </a> -->
-![Jihyo's github stats](https://github-readme-stats.vercel.app/api?username=JIHYO-JEON&hide=["contribs","stars"]&show_icons=true&theme=onedark)
+<!-- ![Jihyo's github stats](https://github-readme-stats.vercel.app/api?username=JIHYO-JEON&hide=["contribs","stars"]&show_icons=true&theme=onedark)
 <!-- ![Jihyo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIHYO-JEON&layout=compact&theme=onedark) -->
-</div>
+</div> -->
 
 <!-- <br /> -->
 
