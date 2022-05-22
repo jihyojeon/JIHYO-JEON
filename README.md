@@ -19,7 +19,8 @@ A collaborative full stack developer, experienced with JavaScript technologies. 
 - 🚀 I’m currently building the network for female Korean developers in London (...in progress)
   - Please contact me if you are interested! 🇬🇧🇰🇷🧑‍💻
 - ⚡ Fun fact: Korea in a country select box could be "South Korea" or "Korea, South" or "Republic of Korea" or "Korea, Republic of" or "Korea" 🤷🏻‍♀️
-- 🎥 This year's resolution: [Kor/Eng][ Vlogging](https://www.youtube.com/channel/UCvx6kNlh9K_xQf7FTgrO4DQ)
+- 🎥 This year's resolution
+  - [Vlogging](https://www.youtube.com/channel/UCvx6kNlh9K_xQf7FTgrO4DQ) + Subtitle in both Korean and English
 
 <br />
 
