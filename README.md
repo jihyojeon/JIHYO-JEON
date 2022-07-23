@@ -25,7 +25,7 @@ A collaborative full stack developer, experienced with JavaScript technologies. 
 - ⚡ Fun fact: Korea in a country select box could be "South Korea" or "Korea, South" or "Republic of Korea" or "Korea, Republic of" or "Korea" 🤷🏻‍♀️
 - 🎥 This year's resolution
   - [Vlogging](https://www.youtube.com/channel/UCvx6kNlh9K_xQf7FTgrO4DQ) + Subtitle in both Korean and English
-  - [Blogging](https://yoyojeon.hashnode.dev/)
+  - [Blogging] [jihyo.dev](https://www.jihyo.dev/)
 
 <br />
 
